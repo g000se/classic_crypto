@@ -20,7 +20,7 @@ keepgoingnevergiveup  CON
 ```
 keepgoingnevergiveup 3 1 5 6 2 4 8 7
 ```
-## Prduct
+## Product
 ```
 keepgoingnevergiveup 15 11 19 18 16	03 07 14 02 20 04 12 09 06 01 05 17 13 10 08
 ```
